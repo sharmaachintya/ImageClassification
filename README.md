@@ -4,3 +4,4 @@ In the training code I've created a Convolutinal Neural Network from the scratch
 In training I've given input the test dataset and validation dataset to check whether the prdiction is wrong or right. Prediction mostly depends on your training accuracy, so keeping that in mind I changed epochs, batch size and after various trys, I found the perfect number of epochs and batch size which gave me the best accuracy.
 
 NOTE: For Dataset you can download it with the help of given "datasetDownloadFromGoogle.py" in this code all you have to do is just // response().download('#Whose images you want to download', #no. of images you want to download) //
+ 
